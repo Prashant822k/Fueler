@@ -23,7 +23,7 @@ Fuel Optimiser is a web-based tool that visualizes real-world locations as graph
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Prashant822k/fuel-optimiser.git
+   git clone https://github.com/Prashant822k/Fueler.git
    cd fuel-optimiser
    ```
 2. Install dependencies:
